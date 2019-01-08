@@ -8,7 +8,7 @@
 body{
     width: 100%;
     height: 100%;
-    background-image: url('../res/feedbackBackground.jpg') ;
+    background-image: url('../res/spidey2.jpg') ;
     background-position: center center;
     background-repeat:  no-repeat;
     background-attachment: fixed;
@@ -99,6 +99,7 @@ textarea.review{
   border: none;
   width: 100%;
   max-width: 100%;
+    margin:0.3em;
   height: 100px;
   padding: 10px;
   box-sizing: border-box;
