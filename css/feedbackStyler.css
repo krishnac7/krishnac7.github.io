@@ -22,7 +22,7 @@ body{
   max-width: 35em;
   text-align: center;
   margin: 4% auto;
-  padding: 3em 0;
+  padding: 1em 0;
   background: #2879D0;
   color: #EEE;
   border-radius: 1em;
@@ -31,7 +31,7 @@ body{
 }
 
 hr{
-  margin: 2em;
+  margin: 1em;
   border: none;
   border-bottom: thin solid rgba(255,255,255,.1);
 }
@@ -46,7 +46,7 @@ h1 span{
 }
 
 div.stars{
-  width: 270px;
+  width: 20em;
   display: inline-block;
 }
 
